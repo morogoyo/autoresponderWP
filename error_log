@@ -1,0 +1,220 @@
+[23-Sep-2017 12:31:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_var() on null in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/tele.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/tele.php on line 23
+[23-Sep-2017 12:31:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_var() on null in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/tele.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/tele.php on line 23
+[23-Sep-2017 12:31:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_var() on null in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/tele.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/tele.php on line 23
+[23-Sep-2017 12:32:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_var() on null in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/tele.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/tele.php on line 23
+[23-Sep-2017 12:32:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_var() on null in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/tele.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/tele.php on line 23
+[23-Sep-2017 12:33:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_var() on null in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/tele.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/tele.php on line 23
+[23-Sep-2017 12:33:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_var() on null in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/tele.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/tele.php on line 23
+[23-Sep-2017 12:59:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_var() on null in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/tele.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/tele.php on line 23
+[23-Sep-2017 12:59:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_var() on null in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/tele.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/tele.php on line 23
+[23-Sep-2017 13:00:02 UTC] PHP Parse error:  syntax error, unexpected '"/wp-inclued/"' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or function (T_FUNCTION) or const (T_CONST) or \\ (T_NS_SEPARATOR) in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/tele.php on line 2
+[23-Sep-2017 13:00:08 UTC] PHP Parse error:  syntax error, unexpected '"/wp-inclued/"' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or function (T_FUNCTION) or const (T_CONST) or \\ (T_NS_SEPARATOR) in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/tele.php on line 2
+[23-Sep-2017 13:02:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_var() on null in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/tele.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/tele.php on line 25
+[23-Sep-2017 13:39:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_var() on null in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/tele.php:27
+Stack trace:
+#0 /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/tele.php(32): database()
+#1 {main}
+  thrown in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/tele.php on line 27
+[23-Sep-2017 13:39:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_var() on null in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/tele.php:27
+Stack trace:
+#0 /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/tele.php(32): database()
+#1 {main}
+  thrown in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/tele.php on line 27
+[23-Sep-2017 13:42:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_var() on null in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/tele.php:27
+Stack trace:
+#0 /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/tele.php(32): database()
+#1 {main}
+  thrown in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/tele.php on line 27
+[23-Sep-2017 13:43:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_var() on null in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/tele.php:27
+Stack trace:
+#0 /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/tele.php(32): database()
+#1 {main}
+  thrown in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/tele.php on line 27
+[23-Sep-2017 13:43:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_var() on null in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/tele.php:27
+Stack trace:
+#0 /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/tele.php(32): database()
+#1 {main}
+  thrown in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/tele.php on line 27
+[23-Sep-2017 13:55:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_var() on null in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/tele.php:27
+Stack trace:
+#0 /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/tele.php(32): database()
+#1 {main}
+  thrown in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/tele.php on line 27
+[23-Sep-2017 13:56:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_var() on null in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/tele.php:27
+Stack trace:
+#0 /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/tele.php(32): database()
+#1 {main}
+  thrown in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/tele.php on line 27
+[23-Sep-2017 13:58:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_var() on null in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/tele.php:27
+Stack trace:
+#0 /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/tele.php(32): database()
+#1 {main}
+  thrown in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/tele.php on line 27
+[23-Sep-2017 14:13:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_var() on null in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/tele.php:27
+Stack trace:
+#0 /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/tele.php(32): database()
+#1 {main}
+  thrown in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/tele.php on line 27
+[24-Sep-2017 22:34:26 UTC] WordPress database error Table 'hondacus_jmm.loosefat_emails' doesn't exist for query SHOW FULL COLUMNS FROM `loosefat_emails`
+[24-Sep-2017 22:37:27 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 15
+[24-Sep-2017 22:37:41 UTC] WordPress database error Table 'hondacus_jmm.loosefat_emails' doesn't exist for query SHOW FULL COLUMNS FROM `loosefat_emails`
+[24-Sep-2017 22:38:40 UTC] WordPress database error Table 'hondacus_jmm.loosefat_emails' doesn't exist for query SHOW FULL COLUMNS FROM `loosefat_emails`
+[24-Sep-2017 23:32:44 UTC] PHP Warning:  require(/home/hondacus/public_html/jmmdistributor.com/vendor/autoload.php): failed to open stream: No such file or directory in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 5
+[24-Sep-2017 23:32:44 UTC] PHP Fatal error:  require(): Failed opening required '/home/hondacus/public_html/jmmdistributor.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 5
+[24-Sep-2017 23:33:00 UTC] PHP Warning:  require(/home/hondacus/public_html/jmmdistributor.com/vendor/autoload.php): failed to open stream: No such file or directory in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 5
+[24-Sep-2017 23:33:00 UTC] PHP Fatal error:  require(): Failed opening required '/home/hondacus/public_html/jmmdistributor.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 5
+[24-Sep-2017 23:33:08 UTC] WordPress database error Table 'hondacus_jmm.loosefat_emails' doesn't exist for query SHOW FULL COLUMNS FROM `loosefat_emails`
+[24-Sep-2017 23:34:06 UTC] PHP Warning:  require(/vendor/autoload.php): failed to open stream: No such file or directory in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 5
+[24-Sep-2017 23:34:06 UTC] PHP Fatal error:  require(): Failed opening required '/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 5
+[24-Sep-2017 23:34:23 UTC] PHP Warning:  require(/vendor/autoload.php): failed to open stream: No such file or directory in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 5
+[24-Sep-2017 23:34:23 UTC] PHP Fatal error:  require(): Failed opening required '/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 5
+[24-Sep-2017 23:34:26 UTC] PHP Warning:  require(/vendor/autoload.php): failed to open stream: No such file or directory in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 5
+[24-Sep-2017 23:34:26 UTC] PHP Fatal error:  require(): Failed opening required '/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 5
+[24-Sep-2017 23:36:55 UTC] PHP Warning:  require(/home/hondacus/public_html/jmmdistributor.com/vendor/autoload.php): failed to open stream: No such file or directory in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 6
+[24-Sep-2017 23:36:55 UTC] PHP Fatal error:  require(): Failed opening required '/home/hondacus/public_html/jmmdistributor.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 6
+[24-Sep-2017 23:37:10 UTC] WordPress database error Table 'hondacus_jmm.loosefat_emails' doesn't exist for query SHOW FULL COLUMNS FROM `loosefat_emails`
+[24-Sep-2017 23:37:25 UTC] PHP Warning:  require(/vendor/autoload.php): failed to open stream: No such file or directory in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 5
+[24-Sep-2017 23:37:25 UTC] PHP Fatal error:  require(): Failed opening required '/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 5
+[24-Sep-2017 23:37:36 UTC] PHP Warning:  require(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 5
+[24-Sep-2017 23:37:36 UTC] PHP Fatal error:  require(): Failed opening required '../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 5
+[24-Sep-2017 23:38:05 UTC] PHP Warning:  require(../vendor/autoload.php): failed to open stream: No such file or directory in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 5
+[24-Sep-2017 23:38:05 UTC] PHP Fatal error:  require(): Failed opening required '../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 5
+[24-Sep-2017 23:38:17 UTC] PHP Warning:  require(../vendor/autoload.php): failed to open stream: No such file or directory in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 5
+[24-Sep-2017 23:38:17 UTC] PHP Fatal error:  require(): Failed opening required '../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 5
+[24-Sep-2017 23:40:36 UTC] PHP Warning:  require(/home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/vendor/autoload.php): failed to open stream: No such file or directory in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 5
+[24-Sep-2017 23:40:36 UTC] PHP Fatal error:  require(): Failed opening required '/home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 5
+[24-Sep-2017 23:50:13 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 6
+[24-Sep-2017 23:50:34 UTC] PHP Warning:  require(__DIR__/vendor/autoload.php): failed to open stream: No such file or directory in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 5
+[24-Sep-2017 23:50:34 UTC] PHP Fatal error:  require(): Failed opening required '__DIR__/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 5
+[24-Sep-2017 23:51:00 UTC] PHP Parse error:  syntax error, unexpected 'DOCUMENT_ROOT' (T_STRING) in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 6
+[24-Sep-2017 23:51:24 UTC] PHP Parse error:  syntax error, unexpected 'DOCUMENT_ROOT' (T_STRING) in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 6
+[24-Sep-2017 23:51:33 UTC] PHP Parse error:  syntax error, unexpected 'DOCUMENT_ROOT' (T_STRING) in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 6
+[24-Sep-2017 23:52:19 UTC] WordPress database error Table 'hondacus_jmm.loosefat_emails' doesn't exist for query SHOW FULL COLUMNS FROM `loosefat_emails`
+[24-Sep-2017 23:52:46 UTC] WordPress database error Table 'hondacus_jmm.loosefat_emails' doesn't exist for query SHOW FULL COLUMNS FROM `loosefat_emails`
+[24-Sep-2017 23:53:38 UTC] PHP Warning:  require(jmmdistributor.com/vendor/autoload.php): failed to open stream: No such file or directory in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 7
+[24-Sep-2017 23:53:38 UTC] PHP Fatal error:  require(): Failed opening required 'jmmdistributor.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 7
+[24-Sep-2017 23:54:00 UTC] PHP Warning:  require(jmmdistributor.com/vendor/autoload.php): failed to open stream: No such file or directory in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 7
+[24-Sep-2017 23:54:00 UTC] PHP Fatal error:  require(): Failed opening required 'jmmdistributor.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 7
+[24-Sep-2017 23:54:07 UTC] PHP Warning:  require(jmmdistributor.com/vendor/autoload.php): failed to open stream: No such file or directory in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 7
+[24-Sep-2017 23:54:07 UTC] PHP Fatal error:  require(): Failed opening required 'jmmdistributor.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 7
+[24-Sep-2017 23:54:23 UTC] PHP Warning:  require(/home/hondacus/public_html/jmmdistributor.com/vendor/autoload.php): failed to open stream: No such file or directory in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 6
+[24-Sep-2017 23:54:23 UTC] PHP Fatal error:  require(): Failed opening required '/home/hondacus/public_html/jmmdistributor.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 6
+[24-Sep-2017 23:54:43 UTC] WordPress database error Table 'hondacus_jmm.loosefat_emails' doesn't exist for query SHOW FULL COLUMNS FROM `loosefat_emails`
+[24-Sep-2017 23:56:38 UTC] PHP Warning:  require(jmmdistributor.com/vendor/autoload.php): failed to open stream: No such file or directory in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 7
+[24-Sep-2017 23:56:38 UTC] PHP Fatal error:  require(): Failed opening required 'jmmdistributor.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 7
+[24-Sep-2017 23:58:53 UTC] PHP Warning:  require(/vendor/autoload.php): failed to open stream: No such file or directory in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 7
+[24-Sep-2017 23:58:53 UTC] PHP Fatal error:  require(): Failed opening required '/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 7
+[25-Sep-2017 00:00:19 UTC] PHP Warning:  require(jmmdistributor.comvendor/autoload.php): failed to open stream: No such file or directory in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 7
+[25-Sep-2017 00:00:19 UTC] PHP Fatal error:  require(): Failed opening required 'jmmdistributor.comvendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 7
+[25-Sep-2017 00:00:32 UTC] PHP Warning:  require(jmmdistributor.comvendor/autoload.php): failed to open stream: No such file or directory in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 7
+[25-Sep-2017 00:00:32 UTC] PHP Fatal error:  require(): Failed opening required 'jmmdistributor.comvendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 7
+[25-Sep-2017 00:01:14 UTC] PHP Warning:  require(jmmdistributor.comvendor/autoload.php): failed to open stream: No such file or directory in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 7
+[25-Sep-2017 00:01:14 UTC] PHP Fatal error:  require(): Failed opening required 'jmmdistributor.comvendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 7
+[25-Sep-2017 00:01:39 UTC] PHP Warning:  require(jmmdistributor.comvendor/autoload.php): failed to open stream: No such file or directory in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 7
+[25-Sep-2017 00:01:39 UTC] PHP Fatal error:  require(): Failed opening required 'jmmdistributor.comvendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 7
+[25-Sep-2017 00:01:52 UTC] PHP Warning:  require(jmmdistributor.com/vendor/autoload.php): failed to open stream: No such file or directory in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 7
+[25-Sep-2017 00:01:52 UTC] PHP Fatal error:  require(): Failed opening required 'jmmdistributor.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 7
+[25-Sep-2017 00:02:01 UTC] PHP Warning:  require(jmmdistributor.com/vendor/autoload.php): failed to open stream: No such file or directory in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 7
+[25-Sep-2017 00:02:01 UTC] PHP Fatal error:  require(): Failed opening required 'jmmdistributor.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 7
+[25-Sep-2017 00:02:10 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php:3) in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/workhorse-af01c6486e84947eb4c66abda4ab3c1824150c85/autoloader.php on line 7
+[25-Sep-2017 00:02:10 UTC] PHP Warning:  require(jmmdistributor.com/vendor/autoload.php): failed to open stream: No such file or directory in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 7
+[25-Sep-2017 00:02:10 UTC] PHP Fatal error:  require(): Failed opening required 'jmmdistributor.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 7
+[25-Sep-2017 00:02:26 UTC] PHP Warning:  require(jmmdistributor.com/vendor/autoload.php): failed to open stream: No such file or directory in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 7
+[25-Sep-2017 00:02:26 UTC] PHP Fatal error:  require(): Failed opening required 'jmmdistributor.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 7
+[25-Sep-2017 00:02:44 UTC] PHP Warning:  require(jmmdistributor.com/vendor/autoload.php): failed to open stream: No such file or directory in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 7
+[25-Sep-2017 00:02:44 UTC] PHP Fatal error:  require(): Failed opening required 'jmmdistributor.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 7
+[25-Sep-2017 00:02:58 UTC] PHP Warning:  require(/home/hondacus/public_html/jmmdistributor.com/vendor/autoload.php): failed to open stream: No such file or directory in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 7
+[25-Sep-2017 00:02:58 UTC] PHP Fatal error:  require(): Failed opening required '/home/hondacus/public_html/jmmdistributor.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 7
+[25-Sep-2017 00:03:06 UTC] WordPress database error Table 'hondacus_jmm.loosefat_emails' doesn't exist for query SHOW FULL COLUMNS FROM `loosefat_emails`
+[25-Sep-2017 00:03:56 UTC] PHP Warning:  require(jmmdistributor.com/vendor/autoload.php): failed to open stream: No such file or directory in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 7
+[25-Sep-2017 00:03:56 UTC] PHP Fatal error:  require(): Failed opening required 'jmmdistributor.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 7
+[25-Sep-2017 00:04:05 UTC] PHP Warning:  require(jmmdistributor.com/vendor/autoload.php): failed to open stream: No such file or directory in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 7
+[25-Sep-2017 00:04:05 UTC] PHP Fatal error:  require(): Failed opening required 'jmmdistributor.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 7
+[25-Sep-2017 00:04:22 UTC] PHP Warning:  require(jmmdistributor.comvendor/autoload.php): failed to open stream: No such file or directory in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 7
+[25-Sep-2017 00:04:22 UTC] PHP Fatal error:  require(): Failed opening required 'jmmdistributor.comvendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 7
+[25-Sep-2017 00:04:34 UTC] PHP Warning:  require(jmmdistributor.com): failed to open stream: No such file or directory in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 7
+[25-Sep-2017 00:04:34 UTC] PHP Fatal error:  require(): Failed opening required 'jmmdistributor.com' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 7
+[25-Sep-2017 00:04:52 UTC] PHP Warning:  require(/vendor/autoload.php): failed to open stream: No such file or directory in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 7
+[25-Sep-2017 00:04:52 UTC] PHP Fatal error:  require(): Failed opening required '/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 7
+[25-Sep-2017 00:05:04 UTC] PHP Warning:  include(/vendor/autoload.php): failed to open stream: No such file or directory in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 7
+[25-Sep-2017 00:05:04 UTC] PHP Warning:  include(): Failed opening '/vendor/autoload.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 7
+[25-Sep-2017 00:05:04 UTC] WordPress database error Table 'hondacus_jmm.loosefat_emails' doesn't exist for query SHOW FULL COLUMNS FROM `loosefat_emails`
+[25-Sep-2017 00:05:59 UTC] PHP Warning:  include(/vendor/autoload.php): failed to open stream: No such file or directory in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 7
+[25-Sep-2017 00:05:59 UTC] PHP Warning:  include(): Failed opening '/vendor/autoload.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 7
+[25-Sep-2017 00:05:59 UTC] WordPress database error Table 'hondacus_jmm.loosefat_emails' doesn't exist for query SHOW FULL COLUMNS FROM `loosefat_emails`
+[25-Sep-2017 00:07:06 UTC] PHP Warning:  require(/home/hondacus/public_html/jmmdistributor.com/vendor/autoload.php): failed to open stream: No such file or directory in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 6
+[25-Sep-2017 00:07:06 UTC] PHP Fatal error:  require(): Failed opening required '/home/hondacus/public_html/jmmdistributor.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 6
+[25-Sep-2017 00:07:19 UTC] WordPress database error Table 'hondacus_jmm.loosefat_emails' doesn't exist for query SHOW FULL COLUMNS FROM `loosefat_emails`
+[25-Sep-2017 00:25:13 UTC] PHP Warning:  require(../../../vendor/autoload.php): failed to open stream: No such file or directory in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 5
+[25-Sep-2017 00:25:13 UTC] PHP Fatal error:  require(): Failed opening required '../../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 5
+[25-Sep-2017 00:25:17 UTC] PHP Warning:  require(../../../vendor/autoload.php): failed to open stream: No such file or directory in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 5
+[25-Sep-2017 00:25:17 UTC] PHP Fatal error:  require(): Failed opening required '../../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 5
+[25-Sep-2017 00:25:26 UTC] PHP Warning:  require(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 5
+[25-Sep-2017 00:25:26 UTC] PHP Fatal error:  require(): Failed opening required '../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 5
+[25-Sep-2017 00:26:43 UTC] PHP Warning:  require(../../../vendor/autoload.php): failed to open stream: No such file or directory in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 5
+[25-Sep-2017 00:26:43 UTC] PHP Fatal error:  require(): Failed opening required '../../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 5
+[25-Sep-2017 00:28:57 UTC] PHP Warning:  require(/home/hondacus/public_html/jmmdistributor.com/vendor/composer/../guzzlehttp/psr7/src/functions_include.php): failed to open stream: No such file or directory in /home/hondacus/public_html/jmmdistributor.com/vendor/composer/autoload_real.php on line 66
+[25-Sep-2017 00:28:57 UTC] PHP Fatal error:  require(): Failed opening required '/home/hondacus/public_html/jmmdistributor.com/vendor/composer/../guzzlehttp/psr7/src/functions_include.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/hondacus/public_html/jmmdistributor.com/vendor/composer/autoload_real.php on line 66
+[25-Sep-2017 00:33:41 UTC] PHP Warning:  require(/home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker../../vendor/autoload.php): failed to open stream: No such file or directory in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 6
+[25-Sep-2017 00:33:41 UTC] PHP Fatal error:  require(): Failed opening required '/home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 6
+[25-Sep-2017 00:33:56 UTC] PHP Warning:  require(../../vendor/autoload.php): failed to open stream: No such file or directory in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 5
+[25-Sep-2017 00:33:56 UTC] PHP Fatal error:  require(): Failed opening required '../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 5
+[25-Sep-2017 00:34:31 UTC] PHP Warning:  require(/vendor/autoload.php): failed to open stream: No such file or directory in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 6
+[25-Sep-2017 00:34:31 UTC] PHP Fatal error:  require(): Failed opening required '/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 6
+[25-Sep-2017 00:34:43 UTC] PHP Warning:  require(/home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/vendor/autoload.php): failed to open stream: No such file or directory in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 6
+[25-Sep-2017 00:34:43 UTC] PHP Fatal error:  require(): Failed opening required '/home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 6
+[25-Sep-2017 00:34:54 UTC] WordPress database error Table 'hondacus_jmm.loosefat_emails' doesn't exist for query SHOW FULL COLUMNS FROM `loosefat_emails`
+[25-Sep-2017 00:35:25 UTC] PHP Warning:  require(/home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker../../vendor/autoload.php): failed to open stream: No such file or directory in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 6
+[25-Sep-2017 00:35:25 UTC] PHP Fatal error:  require(): Failed opening required '/home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 6
+[25-Sep-2017 00:37:22 UTC] PHP Warning:  require(/home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker../../vendor/autoload.php): failed to open stream: No such file or directory in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 6
+[25-Sep-2017 00:37:22 UTC] PHP Fatal error:  require(): Failed opening required '/home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 6
+[25-Sep-2017 00:37:34 UTC] PHP Warning:  require(/home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker../../../vendor/autoload.php): failed to open stream: No such file or directory in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 6
+[25-Sep-2017 00:37:34 UTC] PHP Fatal error:  require(): Failed opening required '/home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker../../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 6
+[25-Sep-2017 00:37:48 UTC] WordPress database error Table 'hondacus_jmm.loosefat_emails' doesn't exist for query SHOW FULL COLUMNS FROM `loosefat_emails`
+[25-Sep-2017 00:38:59 UTC] WordPress database error Table 'hondacus_jmm.loosefat_emails' doesn't exist for query SHOW FULL COLUMNS FROM `loosefat_emails`
+[25-Sep-2017 00:40:54 UTC] WordPress database error Table 'hondacus_jmm.loosefat_emails' doesn't exist for query SHOW FULL COLUMNS FROM `loosefat_emails`
+[25-Sep-2017 00:48:27 UTC] WordPress database error Table 'hondacus_jmm.loosefat_emails' doesn't exist for query SHOW FULL COLUMNS FROM `loosefat_emails`
+[25-Sep-2017 00:49:26 UTC] WordPress database error Table 'hondacus_jmm.loosefat_emails' doesn't exist for query SHOW FULL COLUMNS FROM `loosefat_emails`
+[25-Sep-2017 00:50:25 UTC] WordPress database error Table 'hondacus_jmm.loosefat_emails' doesn't exist for query SHOW FULL COLUMNS FROM `loosefat_emails`
+[25-Sep-2017 00:51:35 UTC] WordPress database error Table 'hondacus_jmm.loosefat_emails' doesn't exist for query SHOW FULL COLUMNS FROM `loosefat_emails`
+[25-Sep-2017 02:07:40 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']' in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 44
+[25-Sep-2017 02:07:43 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']' in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 44
+[25-Sep-2017 02:09:34 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']' in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 44
+[25-Sep-2017 14:12:41 UTC] PHP Parse error:  syntax error, unexpected ''from'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 39
+[25-Sep-2017 16:14:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_var() on null in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/tele.php:27
+Stack trace:
+#0 /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/tele.php(32): database()
+#1 {main}
+  thrown in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/tele.php on line 27
+[25-Sep-2017 16:14:11 UTC] PHP Parse error:  syntax error, unexpected ''from'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 39
+[25-Sep-2017 16:36:28 UTC] PHP Parse error:  syntax error, unexpected ''from'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/hondacus/public_html/jmmdistributor.com/wp-content/plugins/formMaker/save.php on line 39
