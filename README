@@ -1,8 +1,12 @@
-# Auto Responder plugin
+# Project Title
 
-Purpose of this Repository
-       
+Auto Responder plugin
+
     #    Display information with short codes    
     #    Receive email addresses and store in database   
     #    Send information to sparkpost email platform 
-    
+
+## Getting Started
+
+zip files and install in your Wordpress installation
+
