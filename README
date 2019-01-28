@@ -1,15 +1,8 @@
 # Auto Responder plugin
 
 Purpose of this Repository
-
-<ul>
-    <li>        
-        Display information with short codes 
-    </li>
-    <li>
-        Receive email addresses and store in database
-    </li>
-    <li>
-        Send information to sparkpost email platform 
-    </li>
-</ul>
+       
+    #    Display information with short codes    
+    #   Receive email addresses and store in database   
+    #    Send information to sparkpost email platform 
+    
